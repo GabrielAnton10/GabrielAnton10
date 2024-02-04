@@ -1,5 +1,5 @@
 # Seja bem vido 👋
-😇 Fique a vontade para explorar o meu repositorio.
+😇 Fique a vontade para explorar os meus repositorios.
 
 ### Tecnologias que eu uso no dia:
 <div style="display:inline_block"><br/>
