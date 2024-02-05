@@ -1,6 +1,7 @@
 # Seja bem vido 👋
-😇 Fique a vontade para explorar os meus repositorios.
+😇Fique a vontade para explorar os meus repositorios.
 
+🎮Gosto de jogos eletronicos e animes.
 ### Tecnologias que eu uso no dia:
 <div style="display:inline_block"><br/>
     <img algn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
