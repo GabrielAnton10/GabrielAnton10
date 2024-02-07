@@ -1,6 +1,8 @@
 # Seja bem vido 👋
 😇Fique a vontade para explorar os meus repositorios.
-
+<div>
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+</div>
 🎮Gosto de jogos eletrônicos e animes.
 ### Tecnologias que eu uso no dia:
 <div style="display:inline_block"><br/>
