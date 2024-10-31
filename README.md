@@ -7,4 +7,6 @@
 </div>
 
 ### Tecnologias que eu uso no dia:
-
+<div>
+    (c++)
+</div>
