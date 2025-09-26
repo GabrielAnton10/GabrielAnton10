@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 FASO – Faculdade de Análise e Desenvolvimento de Sistemas (ADS)</p>
+<p align="left">📚 Faculdade de Análise e Desenvolvimento de Sistemas (ADS)</p>
 
 ###
 
